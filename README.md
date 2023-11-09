@@ -5,9 +5,9 @@ By the 4th business day of the month the project team needs to submit a report t
 - The type of questions submitted
 - The amount of time from receipt to sending a substantive reply. 
 - High level updates:
--- % of tickets we addressed within the 2 hour window
--- Common ticket types. Essentially, was there an issue this month that many people faced?
--- Any issues that we faced
+   - % of tickets we addressed within the 2 hour window
+   - Common ticket types. Essentially, was there an issue this month that many people faced?
+   - Any issues that we faced
 
 ## Objective
 The goal of this program is to calculate the WWC Public Help Desk performance metrics. 
