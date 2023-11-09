@@ -12,7 +12,7 @@ By the 4th business day of the month the project team needs to submit a report t
 ## Objective
 The goal of this program is to calculate the WWC Public Help Desk performance metrics. 
 
-## Instructions
+## Download Performance Data  
 
 1.0 Go [here](https://mathematicampr.atlassian.net/jira/servicedesk/projects/TOASTHD/issues/jql=project%20%3D%20TOASTHD%20ORDER%20BY%20%22Time%20to%20resolution%22%20ASC)
 
