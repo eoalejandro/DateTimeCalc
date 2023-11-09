@@ -2,7 +2,7 @@
 library(tidyverse)
 library(lubridate)
 
-# Create a sample dataset with email timestamps
+# Import dataset 
 emails <- data.frame(
   received_time = c("2023-10-02 08:30:00", "2023-10-02 10:30:00", "2023-10-03 16:30:00", "2023-10-04 12:30:00"),
   responded_time = c("2023-10-02 10:45:00", "2023-10-02 12:30:00", "2023-10-03 17:45:00", "2023-10-04 11:30:00")
